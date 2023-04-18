@@ -1,0 +1,12 @@
+{
+    "name": "noorisyslaravel/zoom",
+    "description": "This is the package for zoom integration in laravel.",
+    "autoload": {
+        "psr-4": {
+            "Noorisyslaravel\\Zoom\\": "src/"
+        }
+    },
+    "require": {
+        "macsidigital/laravel-zoom": "^7.0"
+    }
+}
