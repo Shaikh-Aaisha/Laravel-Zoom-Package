@@ -23,7 +23,7 @@ Laravel requires connection configuration. To get started, you'll need to publis
 $ php artisan vendor:publish --provider="Noorisyslaravel\Zoom\Providers\LaravelZoomProvider"
 ```
 
-You are free to change the configuration file as needed, but the default expected values are below in config/zoom.php file:
+You are free to change the configuration file as needed in config/zoom.php file:
 
 ```php
 return [
